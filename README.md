@@ -1,58 +1,48 @@
-## <div align="center">hello: string;</div>  
-  
-<div align="center">
+## <div align="left">interface Vejtheguy { <br/>&nbsp; &nbsp; &nbsp; &nbsp; hello: string;<br/>&nbsp; &nbsp; &nbsp; &nbsp; welcome: string;<br/>&nbsp; &nbsp; &nbsp; &nbsp; to: string;<br/>&nbsp; &nbsp; &nbsp; &nbsp; my: string;<br/>&nbsp; &nbsp; &nbsp; &nbsp; github: string[ ];<br/>};</div>
+
+<div align="center" class="headerLinks">
 <a href="https://github.com/vejtheguy" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/aworthlessgamer" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/virgil-jones-630059274" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/vejtheguy" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/user/vejcaecoop" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
 </a>
 <a href="https://codepen.com/vejtheguy" target="_blank">
-<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen />
 </a>  
+<a href="https://linkedin.com/in/virgil-jones-630059274" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
+</a>
+<a href="https://instagram.com/vejtheguy" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram />
+</a>
+<a href="https://twitter.com/aworthlessgamer" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter />
+</a>
+<a href="https://www.youtube.com/user/vejcaecoop" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube />
+</a>
 </div>
 
+### const name = "Virgil Jones";
 
-
-### const name = "Virgil Jones";  
 \<p>I'm a junior frontend developer, transitioning from a background in glassblowing to pursue a fullstack development career. Passionate about building websites and exploring new frameworks, I'm dedicated to creating elegant UI designs and enhancing user experiences with innovative solutions. Join me on this journey as I leverage my artistic background to bring a unique perspective to the dynamic world of web development.\</p>
-  
 
-<br/>  
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: start;">
 
-<table><tr><td valign="top" width="50%">
+🐌 I’m currently working on [Pawsome Adoptions](https://github.com/vejtheguy/pawsome-adoptions)
 
-🐌 I’m currently working on [Pawsome Adoptions](https://github.com/vejtheguy/pawsome-adoptions)  
-  
+📝 I'm currently learning Svelte and SolidJS, while further refining my skill set in JavaScript.
 
-📝 I'm currently learning Svelte and SolidJS, while further refining my skill set in JavaScript.  
-  
+🔥 Fun fact: I love hobbies that involve fire!
 
-🔥 Fun fact: I love hobbies that involve fire!  
-
-
-</td><td valign="top" width="50%">
+</div>
 
 <div align="center">
-<img src="https://github.com/vejtheguy/vejtheguy/blob/main/glassDogHead.jpg?raw=true" align="center" style="width: 100%" />
-</div>  
+<img src="https://github.com/vejtheguy/vejtheguy/blob/main/glassDogHead.jpg?raw=true" align="center" style="width: 100%; max-height: 450px; object-fit: cover;" />
+</div>
 
+<br/>
 
-</td></tr></table>  
+## Languages and Tools
 
-<br/>  
-
-
-## Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
@@ -72,30 +62,34 @@
 <a href="https://www.adobe.com/in/products/dreamweaver.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobedreamweaver.png" alt="Dreamweaver " height="25" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
 <a href="https://woocommerce.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="25" /></a>  
-</div>  
+</div>
 
-<br/>  
+<br/>
 
+## Github Stats
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+<div style="display: flex; flex-direction: column; gap: 2rem;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vejtheguy&hide_border=true&layout=compact" align="center" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vejtheguy&hide_border=true&layout=compact" align="left" />
+![Profile views counter](https://komarev.com/ghpvc/?username=vejtheguy&&style=flat-square)
 
-</td><td valign="top" width="50%">
+</div>
 
-
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=vejtheguy&&style=flat-square)  
-  
-
-<br/>  
-
+<style>
+  /* Remove underline from anchors */
+  a {
+    text-decoration: none;
+    height: 100%;
+  }
+ .headerLinks img {
+        border-radius: 25px;
+    }
+  /* Add hover effect */
+  a:hover {
+    text-decoration: none; /* Change the color to your preference */
+  }
+  a img:hover {
+    scale: 1.3;
+    text-decoration: none;
+  }
+</style>
