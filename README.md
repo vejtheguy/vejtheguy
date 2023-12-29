@@ -15,8 +15,6 @@
 
 \<p> I'm a junior frontend developer, transitioning from a background in glassblowing to pursue a fullstack development career. Passionate about building websites and exploring new frameworks, I'm dedicated to creating elegant UI designs and enhancing user experiences with innovative solutions. Join me on this journey as I leverage my artistic background to bring a unique perspective to the dynamic world of web development. \</p>
 
-<br/>
-
 ## &lt;ul id="current-endeavors"&gt;
 
 <ul>
@@ -36,8 +34,6 @@
 </ul>
 
 ### &lt;/ul&gt;
-
-<br/>
 
 ## Languages and Tools
 
@@ -66,7 +62,7 @@
 
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vejtheguy&hide_border=true&layout=compact" align="center" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vejtheguy&hide_border=true&layout=compact" align="center" width="50%"/>
 
 <br/>
 
