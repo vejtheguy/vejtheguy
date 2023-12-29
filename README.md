@@ -1,23 +1,23 @@
 ## <div align="left">interface Vejtheguy { <br/>&nbsp; &nbsp; &nbsp; &nbsp; hello: string;<br/>&nbsp; &nbsp; &nbsp; &nbsp; welcome: string;<br/>&nbsp; &nbsp; &nbsp; &nbsp; to: string;<br/>&nbsp; &nbsp; &nbsp; &nbsp; my: string;<br/>&nbsp; &nbsp; &nbsp; &nbsp; github: string[ ];<br/>};</div>
 
-<div align="center" class="headerLinks">
-<a href="https://github.com/vejtheguy" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
+<div align="center">
+<a href="https://github.com/vejtheguy" target="_blank" style="text-decoration: none;">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="border-radius: 25px; transition: transform 0.3s; :hover { transform: scale(1.3); }"/>
 </a>
 <a href="https://codepen.com/vejtheguy" target="_blank">
-<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen />
+<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="border-radius: 25px;"/>
 </a>  
 <a href="https://linkedin.com/in/virgil-jones-630059274" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="border-radius: 25px;"/>
 </a>
 <a href="https://instagram.com/vejtheguy" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram />
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="border-radius: 25px;"/>
 </a>
 <a href="https://twitter.com/aworthlessgamer" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter />
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="border-radius: 25px;"/>
 </a>
 <a href="https://www.youtube.com/user/vejcaecoop" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube />
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="border-radius: 25px;"/>
 </a>
 </div>
 
@@ -81,15 +81,5 @@
     text-decoration: none;
     height: 100%;
   }
- .headerLinks img {
-        border-radius: 25px;
-    }
-  /* Add hover effect */
-  a:hover {
-    text-decoration: none; /* Change the color to your preference */
-  }
-  a img:hover {
-    scale: 1.3;
-    text-decoration: none;
-  }
+
 </style>
