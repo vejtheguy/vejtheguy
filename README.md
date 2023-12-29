@@ -1,15 +1,26 @@
-<base target="_blank">
-
 ## <div align="left">interface Vejtheguy { <br/>&nbsp; &nbsp; &nbsp; &nbsp; hello: string;<br/>&nbsp; &nbsp; &nbsp; &nbsp; welcome: string;<br/>&nbsp; &nbsp; &nbsp; &nbsp; to: string;<br/>&nbsp; &nbsp; &nbsp; &nbsp; my: string;<br/>&nbsp; &nbsp; &nbsp; &nbsp; github: string[ ];<br/>};</div>
 
-<div align="center">
+<div align="left">
 
-[![github](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/vejtheguy)
-[![codepen](https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.com/vejtheguy)
-[![linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/virgil-jones-630059274)
-[![instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vejtheguy)
-[![twitter](https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aworthlessgamer)
-[![youtube](https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aworthlessgamer)
+<a href="https://github.com/vejtheguy" target="_blank">
+
+![github](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)
+</a>
+<a href="https://codepen.com/vejtheguy" target="_blank">
+![codepen](https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white)
+</a>
+<a href="https://linkedin.com/in/virgil-jones-630059274" target="_blank">
+![linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
+</a>
+<a href="https://instagram.com/vejtheguy" target="_blank">
+![instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)
+</a>
+<a href="https://twitter.com/aworthlessgamer" target="_blank">
+![twitter](https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)
+</a>
+<a href="https://www.youtube.com/@aworthlessgamer" target="_blank">
+![youtube](https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white)
+</a>
 
 </div>
 
