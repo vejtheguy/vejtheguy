@@ -1,46 +1,41 @@
-## <div align="left">interface Vejtheguy { <br/>&nbsp; &nbsp; &nbsp; &nbsp; hello: string;<br/>&nbsp; &nbsp; &nbsp; &nbsp; welcome: string;<br/>&nbsp; &nbsp; &nbsp; &nbsp; to: string;<br/>&nbsp; &nbsp; &nbsp; &nbsp; my: string;<br/>&nbsp; &nbsp; &nbsp; &nbsp; github: string[ ];<br/>};</div>
+## <div align="left">interface Vejtheguy { <br/>&nbsp; &nbsp; &nbsp; &nbsp; welcome: _string_;<br/>&nbsp; &nbsp; &nbsp; &nbsp; to: _number_;<br/>&nbsp; &nbsp; &nbsp; &nbsp; my: _boolean_;<br/>&nbsp; &nbsp; &nbsp; &nbsp; github: _string[ ]_;<br/>};</div>
 
 <div align="left">
 
-<a href="https://github.com/vejtheguy" target="_blank">
-
-![github](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)
-</a>
-<a href="https://codepen.com/vejtheguy" target="_blank">
-![codepen](https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white)
-</a>
-<a href="https://linkedin.com/in/virgil-jones-630059274" target="_blank">
-![linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
-</a>
-<a href="https://instagram.com/vejtheguy" target="_blank">
-![instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)
-</a>
-<a href="https://twitter.com/aworthlessgamer" target="_blank">
-![twitter](https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)
-</a>
-<a href="https://www.youtube.com/@aworthlessgamer" target="_blank">
-![youtube](https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white)
-</a>
+[![github](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/vejtheguy)
+[![codepen](https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.com/vejtheguy)
+[![linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/virgil-jones-630059274)
+[![instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vejtheguy)
+[![twitter](https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aworthlessgamer)
+[![youtube](https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aworthlessgamer)
 
 </div>
 
-### const name = "Virgil Jones";
+## const name = "Virgil Jones";
 
-\<p>I'm a junior frontend developer, transitioning from a background in glassblowing to pursue a fullstack development career. Passionate about building websites and exploring new frameworks, I'm dedicated to creating elegant UI designs and enhancing user experiences with innovative solutions. Join me on this journey as I leverage my artistic background to bring a unique perspective to the dynamic world of web development.\</p>
+\<p> I'm a junior frontend developer, transitioning from a background in glassblowing to pursue a fullstack development career. Passionate about building websites and exploring new frameworks, I'm dedicated to creating elegant UI designs and enhancing user experiences with innovative solutions. Join me on this journey as I leverage my artistic background to bring a unique perspective to the dynamic world of web development. \</p>
 
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+<br/>
 
-🐌 I’m currently working on [Pawsome Adoptions](https://github.com/vejtheguy/pawsome-adoptions)
+## &lt;ul id="current-endeavors"&gt;
 
-📝 I'm currently learning Svelte and SolidJS, while further refining my skill set in JavaScript.
+<ul>
 
-🔥 Fun fact: I love hobbies that involve fire!
+&lt;li&gt;&nbsp;
+🐌 I am currently working on [Pawsome Adoptions](https://github.com/vejtheguy/pawsome-adoptions)
+&nbsp;&lt;/li&gt;
 
-</div>
+&lt;li&gt;&nbsp;
+📝 - Learning Svelte and SolidJS, while honing my JavaScript skills.
+&nbsp;&lt;/li&gt;
 
-<div align="center">
-<img src="https://github.com/vejtheguy/vejtheguy/blob/main/glassDogHead.jpg?raw=true" align="center" style="width: 100%; max-height: 450px; object-fit: cover;" />
-</div>
+&lt;li&gt;&nbsp;
+🔥 - Fun fact: I love hobbies that involve fire!
+&nbsp;&lt;/li&gt;
+
+</ul>
+
+### &lt;/ul&gt;
 
 <br/>
 
@@ -71,9 +66,8 @@
 
 ## Github Stats
 
-<div style="display: flex; flex-direction: column; gap: 2rem;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vejtheguy&hide_border=true&layout=compact" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vejtheguy&hide_border=true&layout=compact" align="center" width="100%"/>
+
+<br/>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=vejtheguy&&style=flat-square)
-
-</div>
