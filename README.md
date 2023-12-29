@@ -1,31 +1,23 @@
+<base target="_blank">
+
 ## <div align="left">interface Vejtheguy { <br/>&nbsp; &nbsp; &nbsp; &nbsp; hello: string;<br/>&nbsp; &nbsp; &nbsp; &nbsp; welcome: string;<br/>&nbsp; &nbsp; &nbsp; &nbsp; to: string;<br/>&nbsp; &nbsp; &nbsp; &nbsp; my: string;<br/>&nbsp; &nbsp; &nbsp; &nbsp; github: string[ ];<br/>};</div>
 
 <div align="center">
-<a href="https://github.com/vejtheguy" target="_blank" style="text-decoration: none;">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="border-radius: 25px; transition: transform 0.3s; :hover { transform: scale(1.3); }"/>
-</a>
-<a href="https://codepen.com/vejtheguy" target="_blank">
-<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="border-radius: 25px;"/>
-</a>  
-<a href="https://linkedin.com/in/virgil-jones-630059274" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="border-radius: 25px;"/>
-</a>
-<a href="https://instagram.com/vejtheguy" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="border-radius: 25px;"/>
-</a>
-<a href="https://twitter.com/aworthlessgamer" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="border-radius: 25px;"/>
-</a>
-<a href="https://www.youtube.com/user/vejcaecoop" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="border-radius: 25px;"/>
-</a>
+
+[![github](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/vejtheguy)
+[![codepen](https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.com/vejtheguy)
+[![linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/virgil-jones-630059274)
+[![instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vejtheguy)
+[![twitter](https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aworthlessgamer)
+[![youtube](https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aworthlessgamer)
+
 </div>
 
 ### const name = "Virgil Jones";
 
 \<p>I'm a junior frontend developer, transitioning from a background in glassblowing to pursue a fullstack development career. Passionate about building websites and exploring new frameworks, I'm dedicated to creating elegant UI designs and enhancing user experiences with innovative solutions. Join me on this journey as I leverage my artistic background to bring a unique perspective to the dynamic world of web development.\</p>
 
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: start;">
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
 
 🐌 I’m currently working on [Pawsome Adoptions](https://github.com/vejtheguy/pawsome-adoptions)
 
@@ -74,12 +66,3 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=vejtheguy&&style=flat-square)
 
 </div>
-
-<style>
-  /* Remove underline from anchors */
-  a {
-    text-decoration: none;
-    height: 100%;
-  }
-
-</style>
