@@ -15,7 +15,9 @@
 
 \<p> I'm a junior frontend developer, transitioning from a background in glassblowing to pursue a fullstack development career. Passionate about building websites and exploring new frameworks, I'm dedicated to creating elegant UI designs and enhancing user experiences with innovative solutions. Join me on this journey as I leverage my artistic background to bring a unique perspective to the dynamic world of web development. \</p>
 
-## &lt;ul id="current-endeavors"&gt;
+---
+
+### &lt;ul id="current-endeavors"&gt;
 
 <ul>
 
@@ -35,10 +37,13 @@
 
 ### &lt;/ul&gt;
 
-## const languagesAndTools = [
+---
+
+### const languagesAndTools = [
 
 <div align="left">  
-<a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="35" /></a>,  
+<a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="35" /></a>,
+<a href="https://solidjs.com" target="_blank"><img src="https://www.solidjs.com/assets/logo-123b04bc.svg" alt="SolidJS" height="35" /></a>,
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="35" /></a>,
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="35" /></a>,
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="35" /></a>,
@@ -60,11 +65,11 @@
 
 ### ]
 
-<br/>
+---
 
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vejtheguy&hide_border=true&layout=compact" align="center" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vejtheguy&hide_border=true&layout=compact" align="center" width="40%"/>
 
 <br/>
 
