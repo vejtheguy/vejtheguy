@@ -20,7 +20,7 @@
 <ul>
 
 &lt;li&gt;&nbsp;
-🐌 I am currently working on [Pawsome Adoptions](https://github.com/vejtheguy/pawsome-adoptions)
+🐌 - I am currently working on [Pawsome Adoptions](https://github.com/vejtheguy/pawsome-adoptions)
 &nbsp;&lt;/li&gt;
 
 &lt;li&gt;&nbsp;
@@ -35,28 +35,32 @@
 
 ### &lt;/ul&gt;
 
-## Languages and Tools
+## const LanguagesAndTools = [
 
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" /></a>  
-<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="25" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/dreamweaver.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobedreamweaver.png" alt="Dreamweaver " height="25" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
-<a href="https://woocommerce.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="25" /></a>  
+<div align="left">
+
+[![React | width=50](https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg =25x25)](https://reactjs.org/)
+[![Bootstrap](https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg =25x25)](https://getbootstrap.com/docs/3.4/javascript/)
+[![CSS3](https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg =25x25)](https://www.w3schools.com/css/)
+[![HTML5](https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg =25x25)](https://en.wikipedia.org/wiki/HTML5)
+[![JavaScript](https://profilinator.rishav.dev/skills-assets/javascript-original.svg =25x25)](https://www.javascript.com/)
+[![TypeScript](https://profilinator.rishav.dev/skills-assets/typescript-original.svg =25x25)](https://www.typescriptlang.org/)
+[![Sass](https://profilinator.rishav.dev/skills-assets/sass-original.svg =25x25)](https://sass-lang.com/)
+[![Git](https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg =25x25)](https://github.com/)
+[![Firebase](https://profilinator.rishav.dev/skills-assets/firebase.png =25x25)](https://firebase.google.com/)
+[![WordPress](https://profilinator.rishav.dev/skills-assets/wordpress.png =25x25)](https://wordpress.com/)
+[![Blender](https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg =25x25)](https://www.blender.org/)
+[![Tailwind CSS](https://profilinator.rishav.dev/skills-assets/tailwindcss.svg =25x25)](https://www.tailwindcss.com/)
+[![Illustrator](https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg =25x25)](https://www.adobe.com/in/products/illustrator.html)
+[![Adobe InDesign](https://profilinator.rishav.dev/skills-assets/adobeindesign.svg =25x25)](https://www.adobe.com/in/products/indesign.html)
+[![Photoshop](https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg =25x25)](https://www.adobe.com/in/products/photoshop.html)
+[![Dreamweaver](https://profilinator.rishav.dev/skills-assets/adobedreamweaver.png =25x25)](https://www.adobe.com/in/products/dreamweaver.html)
+[![Figma](https://profilinator.rishav.dev/skills-assets/figma-icon.svg =25x25)](https://www.figma.com/)
+[![WooCommerce](https://profilinator.rishav.dev/skills-assets/woocommerce.png =25x25)](https://woocommerce.com/)
+
 </div>
+
+### ]
 
 <br/>
 
