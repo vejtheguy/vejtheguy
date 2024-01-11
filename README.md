@@ -63,7 +63,7 @@
 
 ### const githubStats = (userName: string) => {
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vejtheguy&hide_border=true&layout=compact" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vejtheguy&hide_border=true&layout=compact" width="30%"/>
 
 <br/>
 
