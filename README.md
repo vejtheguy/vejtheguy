@@ -11,7 +11,7 @@
 
 </div>
 
-## const name = "Virgil Jones";
+### const name = "Virgil Jones";
 
 \<p> I'm a junior frontend developer, transitioning from a background in glassblowing to pursue a fullstack development career. Passionate about building websites and exploring new frameworks, I'm dedicated to creating elegant UI designs and enhancing user experiences with innovative solutions. Join me on this journey as I leverage my artistic background to bring a unique perspective to the dynamic world of web development. \</p>
 
@@ -61,11 +61,9 @@
 
 ### ]
 
-### const githubStats = (userName: string) => {
+### const githubStats = ( userName: string ) => {
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vejtheguy&hide_border=true&layout=compact" width="30%"/>
-
-<br/>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=vejtheguy&&style=flat-square)
 
