@@ -18,19 +18,21 @@ I’m actively expanding my technical foundation while working toward a B.S. in 
 
 ### >> current_tasks
 
-\> school  
-├ Arizona State University (online) – B.S. Computer Science  
+```text
+> school
+├ Arizona State University (online) – B.S. Computer Science
 └ Coursework: Core CS classes, algorithms, data structures, web development
 
-\> personal_projects  
-├ Building: Personal homepage  
+> personal_projects
+├ Building: Personal homepage
 └ Experimenting: Svelte, SolidJS, JavaScript patterns
 
-\> professional_learning  
+> professional_learning
 └ Udemy Fullstack Web Development course
 
-\> fun_fact  
+> fun_fact
 └ Most hobbies involve fire: glassblowing, metalwork, etc.
+```
 
 ### >> contact_links
 
