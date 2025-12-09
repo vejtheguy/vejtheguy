@@ -405,11 +405,10 @@
   <rect width="0" height="0" fill="none">
     <animate id="reboot1" attributeName="width" from="1" to="1" begin="1.54s;reboot1.begin+7.04s" dur="0.01s"/>
   </rect>
-    <rect width="1" height="1" fill="none">
+  <rect width="1" height="1" fill="none">
     <animate id="reboot2" attributeName="width" from="1" to="1" begin="4.08s;reboot2.begin+7.04s" dur="0.01s" />
   </rect>
-  </rect>
-    <rect width="1" height="1" fill="none">
+  <rect width="1" height="1" fill="none">
     <animate id="reboot3" attributeName="width" from="1" to="1" begin="7.04s;reboot3.begin+7.04s" dur="0.01s" />
   </rect>
 </svg>
