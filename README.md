@@ -1,71 +1,63 @@
-## <div align="left">interface Vejtheguy { <br/>&nbsp; &nbsp; &nbsp; &nbsp; welcome: _string_;<br/>&nbsp; &nbsp; &nbsp; &nbsp; to: _number_;<br/>&nbsp; &nbsp; &nbsp; &nbsp; my: _boolean_;<br/>&nbsp; &nbsp; &nbsp; &nbsp; github: _string[ ]_;<br/>};</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vejtheguy/vejtheguy/refs/heads/main/imgs/terminal.svg" />
-</p>
-
-<div align="left">
-
-[![github](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/vejtheguy)
-[![codepen](https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.com/vejtheguy)
-[![linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/virgil-jones-630059274)
-
+ <div align="center">
+  <img src="https://raw.githubusercontent.com/vejtheguy/vejtheguy/refs/heads/main/imgs/terminal.svg" alt="Animated terminal interface welcoming users to Virgil’s GitHub profile."/>
 </div>
 
-### const name = "Virgil Jones";
+### >> user.profile.log
 
-\<p> I'm a junior frontend developer, transitioning from a background in glassblowing to pursue a fullstack development career. Passionate about building websites and exploring new frameworks, I'm dedicated to creating elegant UI designs and enhancing user experiences with innovative solutions. Join me on this journey as I leverage my artistic background to bring a unique perspective to the dynamic world of web development. \</p>
+name = Virgil Jones  
+status = Undergraduate @ Arizona State University  
+major = B.S. Computer Science (IT track)  
+year = Sophomore / Junior Standing  
+focus = Front-End Development, UI Design, Web Engineering
 
-### &lt;ul id="current-endeavors"&gt;
+### >> user.about.log
 
-<ul>
+I'm an Information Technology student transitioning into Computer Science, with hands-on experience building modern web interfaces using **HTML, CSS, JavaScript, TypeScript, React, and SolidJS**. I enjoy creating clean, efficient UI components and bringing ideas to life through interactive user experiences.
 
-&lt;li&gt;&nbsp;
-🐌 - I am currently working on [Pawsome Adoptions](https://github.com/vejtheguy/pawsome-adoptions)
-&nbsp;&lt;/li&gt;
+I’m actively expanding my technical foundation while working toward a B.S. in Computer Science. I'm seeking **internship or part-time opportunities** where I can contribute to real projects, learn from experienced engineers, and continue improving as a developer.
 
-&lt;li&gt;&nbsp;
-📝 - Learning Svelte and SolidJS, while honing my JavaScript skills.
-&nbsp;&lt;/li&gt;
+### >> current_tasks
 
-&lt;li&gt;&nbsp;
-🔥 - Fun fact: I love hobbies that involve fire!
-&nbsp;&lt;/li&gt;
+\> school  
+├ Arizona State University (online) – B.S. Computer Science  
+└ Coursework: Core CS classes, algorithms, data structures, web development
 
-</ul>
+\> personal_projects  
+├ Building: Personal homepage  
+└ Experimenting: Svelte, SolidJS, JavaScript patterns
 
-### &lt;/ul&gt;
+\> professional_learning  
+└ Udemy Fullstack Web Development course
 
-### const languagesAndTools = [
+\> fun_fact  
+└ Most hobbies involve fire: glassblowing, metalwork, etc.
 
-<div align="left">  
-<a href="https://reactjs.org/"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="35" /></a>,
-<a href="https://solidjs.com"><img src="https://www.solidjs.com/assets/logo-123b04bc.svg" alt="SolidJS" height="35" /></a>,
-<a href="https://getbootstrap.com/docs/3.4/javascript/"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="35" /></a>,
-<a href="https://www.w3schools.com/css/"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="35" /></a>,
-<a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="35" /></a>,
-<a href="https://www.javascript.com/"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="35" /></a>,
-<a href="https://www.typescriptlang.org/"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="35" /></a>,
-<a href="https://sass-lang.com/"><img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="35" /></a>,
-<a href="https://github.com/"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" /></a>,
-<a href="https://firebase.google.com/"><img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="35" /></a>,
-<a href="https://wordpress.com/"><img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="35" /></a>,
-<a href="https://www.blender.org/"><img src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="35" /></a>,
-<a href="https://www.tailwindcss.com/"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="35" /></a>,
-<a href="https://www.adobe.com/in/products/illustrator.html"><img src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="35" /></a>,
-<a href="https://www.adobe.com/in/products/indesign.html"><img src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="35" /></a>,
-<a href="https://www.adobe.com/in/products/photoshop.html"><img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="35" /></a>,
-<a href="https://www.adobe.com/in/products/dreamweaver.html"><img src="https://profilinator.rishav.dev/skills-assets/adobedreamweaver.png" alt="Dreamweaver " height="35" /></a>,
-<a href="https://www.figma.com/"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="35" /></a>,
-<a href="https://woocommerce.com/"><img src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="35" /></a>
-</div>
+### >> contact_links
 
-### ]
+\> [access codepen](https://codepen.io/vejtheguy)  
+\> [access linkedin](https://linkedin.com/in/virgil-jones-630059274)
 
-### const githubStats = ( userName: string ) => {
+### >> languages_and_tools
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vejtheguy&hide_border=true&layout=compact" width="30%"/>
-
-![Profile views counter](https://komarev.com/ghpvc/?username=vejtheguy&&style=flat-square)
-
-### }
+\> languages  
+├ JavaScript  
+├ TypeScript  
+├ Java  
+└ Node.js  
+\> frontend  
+├ HTML / CSS  
+├ Sass  
+├ React  
+├ SolidJS  
+├ TailwindCSS  
+└ Bootstrap  
+\> tools  
+├ Git / GitHub  
+├ Firebase  
+└ Tinkercad  
+\> design  
+├ Figma  
+├ Blender  
+├ Canva  
+├ Illustrator  
+└ Photoshop
