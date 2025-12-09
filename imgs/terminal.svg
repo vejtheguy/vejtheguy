@@ -1,9 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="350">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450">
   <defs>
-    <!-- Scanlines -->
-    <pattern id="scan" width="100%" height="4" patternUnits="userSpaceOnUse">
-      <rect width="100%" height="2" fill="rgba(0,255,0,0.166)"/>
+  
+    <!-- Scanline pattern -->
+    <pattern id="scan" width="100" height="8" patternUnits="userSpaceOnUse">
+      <rect width="100" height="4" fill="rgba(0,255,0,0.143)" />
     </pattern>
+  </defs>
+
+  <rect width="100%" height="100%" fill="#000200"/>
+
+  <rect width="100%" height="100%" fill="url(#scan)"/>
+
+  <!-- Glitch rolling bar -->
+  <rect x="-20" y="-30" width="120%" height="22" fill="rgba(0,255,0,0.409)" opacity="0">
+    <!-- vertical roll -->
+    <animate attributeName="y" from="-30" to="620" dur="6.6s" repeatCount="indefinite"/>
+    <!-- jitter -->
+    <animate attributeName="x" values="-20; -6; 10; -4; -20" dur="0.12s" repeatCount="indefinite"/>
+    <!-- flicker opacity -->
+    <animate attributeName="opacity" values="0;0.18;0.08;0.22;0" dur="0.12s" repeatCount="indefinite"/>
+  </rect>
 
     <!-- Glow -->
     <filter id="glow">
@@ -15,14 +31,7 @@
     </filter>
   </defs>
 
-  <!-- Background -->
-  <rect width="100%" height="100%" fill="#000200"/>
-  <rect width="100%" height="100%" fill="url(#scan)">
-    <animate attributeName="y" from="0" to="4" dur="0.08s" repeatCount="indefinite"/>
-  </rect>
-
-  <!-- All text resets every cycle -->
-  <g font-family="Consolas, monospace" font-size="22" fill="#2aff2a" filter="url(#glow)">
+  <g font-family="Consolas, monospace" font-size="24" fill="#2aff2a" filter="url(#glow)">
 
 <!-- Initializing Terminal -->
 <text x="30" y="60" opacity="0">I
@@ -253,151 +262,247 @@
 <animate attributeName="opacity" begin="7.04s" dur="0.07s" to="1" fill="freeze"/>
 </text>
 
-    <!-- LINE 3 
-    <text x="30" y="140" opacity="0">ACCESSING GITHUB ARCHIVES . . .
-      <animate attributeName="opacity" values="0;1" begin="2s;reboot.begin+2s" dur="0.4s" fill="freeze"/>
-    </text> -->
+<text x="30" y="200" opacity="0">======================================
+<animate attributeName="opacity" begin="7.54s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<!-- $ session online -->
+<text x="30" y="240" opacity="0">$
+<animate attributeName="opacity" begin="8.04s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="50" y="240" opacity="0">
+<animate attributeName="opacity" begin="8.11s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="70" y="240" opacity="0">s
+<animate attributeName="opacity" begin="8.18s;reboot4.begin+0.23s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="90" y="240" opacity="0">y
+<animate attributeName="opacity" begin="8.25s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="110" y="240" opacity="0">s
+<animate attributeName="opacity" begin="8.32s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="130" y="240" opacity="0">t
+<animate attributeName="opacity" begin="8.39s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="150" y="240" opacity="0">e
+<animate attributeName="opacity" begin="8.46s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="170" y="240" opacity="0">m
+<animate attributeName="opacity" begin="8.53s;reboot4.begin+0.32s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="190" y="240" opacity="0">
+<animate attributeName="opacity" begin="8.60s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="210" y="240" opacity="0">o
+<animate attributeName="opacity" begin="8.67s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="230" y="240" opacity="0">n
+<animate attributeName="opacity" begin="8.74s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="250" y="240" opacity="0">l
+<animate attributeName="opacity" begin="8.81s;reboot4.begin+0.97s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="270" y="240" opacity="0">i
+<animate attributeName="opacity" begin="8.88s;reboot4.begin+1.63s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="290" y="240" opacity="0">n
+<animate attributeName="opacity" begin="8.95s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="310" y="240" opacity="0">e
+<animate attributeName="opacity" begin="9.02s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="330" y="240" opacity="0">
+<animate attributeName="opacity" begin="9.09s" dur="0.07s" to="1" fill="freeze"/>
+</text>
 
-    <!-- ============================= -->
-    <!-- TYPING EFFECT SECTION          -->
-    <!-- ============================= -->
+<!-- user authenticated: Virgil Jones -->
+<text x="30" y="280" opacity="0">$
+<animate attributeName="opacity" begin="9.16s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="50" y="280" opacity="0"> 
+<animate attributeName="opacity" begin="9.23s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="70" y="280" opacity="0">u
+<animate attributeName="opacity" begin="9.30s;reboot5.begin+0.23s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="90" y="280" opacity="0">s
+<animate attributeName="opacity" begin="9.37s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="110" y="280" opacity="0">e
+<animate attributeName="opacity" begin="9.44s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="130" y="280" opacity="0">r
+<animate attributeName="opacity" begin="9.51s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="150" y="280" opacity="0"> 
+<animate attributeName="opacity" begin="9.58s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="170" y="280" opacity="0">a
+<animate attributeName="opacity" begin="9.65s;reboot5.begin+0.32s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="190" y="280" opacity="0">u
+<animate attributeName="opacity" begin="9.72s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="210" y="280" opacity="0">t
+<animate attributeName="opacity" begin="9.79s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="230" y="280" opacity="0">h
+<animate attributeName="opacity" begin="9.86s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="250" y="280" opacity="0">e
+<animate attributeName="opacity" begin="9.93s;reboot5.begin+0.97s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="270" y="280" opacity="0">n
+<animate attributeName="opacity" begin="10.00s;reboot5.begin+1.63s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="290" y="280" opacity="0">t
+<animate attributeName="opacity" begin="10.07s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="310" y="280" opacity="0">i
+<animate attributeName="opacity" begin="10.14s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="330" y="280" opacity="0">c
+<animate attributeName="opacity" begin="10.21s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="350" y="280" opacity="0">a
+<animate attributeName="opacity" begin="10.28s;reboot5.begin+0.83s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="370" y="280" opacity="0">t
+<animate attributeName="opacity" begin="10.35s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="390" y="280" opacity="0">e
+<animate attributeName="opacity" begin="10.42s;reboot5.begin+0.27s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="410" y="280" opacity="0">d
+<animate attributeName="opacity" begin="10.49s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="430" y="280" opacity="0">:
+<animate attributeName="opacity" begin="10.56s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="450" y="280" opacity="0"> 
+<animate attributeName="opacity" begin="10.63s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="470" y="280" opacity="0">V
+<animate attributeName="opacity" begin="10.70s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="490" y="280" opacity="0">i
+<animate attributeName="opacity" begin="10.77s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="510" y="280" opacity="0">r
+<animate attributeName="opacity" begin="10.84s;reboot5.begin+1.37s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="530" y="280" opacity="0">g
+<animate attributeName="opacity" begin="10.91s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="550" y="280" opacity="0">i
+<animate attributeName="opacity" begin="10.98s;reboot5.begin+0.67s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="570" y="280" opacity="0">l
+<animate attributeName="opacity" begin="11.05s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="590" y="280" opacity="0"> 
+<animate attributeName="opacity" begin="11.12s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="610" y="280" opacity="0">J
+<animate attributeName="opacity" begin="11.19s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="630" y="280" opacity="0">o
+<animate attributeName="opacity" begin="11.26s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="650" y="280" opacity="0">n
+<animate attributeName="opacity" begin="11.33s;reboot5.begin+1.37s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="670" y="280" opacity="0">e
+<animate attributeName="opacity" begin="11.40s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="690" y="280" opacity="0">s
+<animate attributeName="opacity" begin="11.47s" dur="0.07s" to="1" fill="freeze"/>
+</text>
 
-    <!-- $ welcome -->
-    <text x="30" y="200" opacity="0">$ 
-      <animate attributeName="opacity" begin="3s;reboot.begin+3s" dur="0.1s" to="1" fill="freeze"/>
-    </text>
+<!-- access options below -->
+<text x="30" y="320" opacity="0">$
+<animate attributeName="opacity" begin="11.54s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="50" y="320" opacity="0"> 
+<animate attributeName="opacity" begin="11.61s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="70" y="320" opacity="0">a
+<animate attributeName="opacity" begin="11.68s;reboot5.begin+0.23s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="90" y="320" opacity="0">c
+<animate attributeName="opacity" begin="11.75s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="110" y="320" opacity="0">c
+<animate attributeName="opacity" begin="11.82s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="130" y="320" opacity="0">e
+<animate attributeName="opacity" begin="11.89s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="150" y="320" opacity="0">s
+<animate attributeName="opacity" begin="11.96s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="170" y="320" opacity="0">s
+<animate attributeName="opacity" begin="12.03s;reboot5.begin+0.32s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="190" y="320" opacity="0"> 
+<animate attributeName="opacity" begin="12.10s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="210" y="320" opacity="0">o
+<animate attributeName="opacity" begin="12.17s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="230" y="320" opacity="0">p
+<animate attributeName="opacity" begin="12.24s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="250" y="320" opacity="0">t
+<animate attributeName="opacity" begin="12.31s;reboot5.begin+0.97s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="270" y="320" opacity="0">i
+<animate attributeName="opacity" begin="12.38s;reboot5.begin+1.63s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="290" y="320" opacity="0">o
+<animate attributeName="opacity" begin="12.45s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="310" y="320" opacity="0">n
+<animate attributeName="opacity" begin="12.52s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="330" y="320" opacity="0">s
+<animate attributeName="opacity" begin="12.59s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="350" y="320" opacity="0"> 
+<animate attributeName="opacity" begin="12.66s;reboot5.begin+0.83s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="370" y="320" opacity="0">b
+<animate attributeName="opacity" begin="12.73s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="390" y="320" opacity="0">e
+<animate attributeName="opacity" begin="12.80s;reboot5.begin+0.27s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="410" y="320" opacity="0">l
+<animate attributeName="opacity" begin="12.87s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="430" y="320" opacity="0">o
+<animate attributeName="opacity" begin="12.94s" dur="0.07s" to="1" fill="freeze"/>
+</text>
+<text x="450" y="320" opacity="0">w
+<animate attributeName="opacity" begin="13.01s" dur="0.07s" to="1" fill="freeze"/>
+</text>
 
-    <!-- w -->
-    <text x="55" y="200" opacity="0">w
-      <animate attributeName="opacity" begin="3.1s;reboot.begin+3.1s" dur="0.08s" to="1" fill="freeze"/>
-    </text>
-    <!-- e -->
-    <text x="75" y="200" opacity="0">e
-      <animate attributeName="opacity" begin="3.18s;reboot.begin+3.18s" dur="0.08s" to="1" fill="freeze"/>
-    </text>
-    <!-- l -->
-    <text x="95" y="200" opacity="0">l
-      <animate attributeName="opacity" begin="3.26s;reboot.begin+3.26s" dur="0.08s" to="1" fill="freeze"/>
-    </text>
-    <!-- c -->
-    <text x="115" y="200" opacity="0">c
-      <animate attributeName="opacity" begin="3.34s;reboot.begin+3.34s" dur="0.08s" to="1" fill="freeze"/>
-    </text>
-    <!-- o -->
-    <text x="135" y="200" opacity="0">o
-      <animate attributeName="opacity" begin="3.42s;reboot.begin+3.42s" dur="0.08s" to="1" fill="freeze"/>
-    </text>
-    <!-- m -->
-    <text x="155" y="200" opacity="0">m
-      <animate attributeName="opacity" begin="3.50s;reboot.begin+3.50s" dur="0.08s" to="1" fill="freeze"/>
-    </text>
-    <!-- e -->
-    <text x="175" y="200" opacity="0">e
-      <animate attributeName="opacity" begin="3.58s;reboot.begin+3.58s" dur="0.08s" to="1" fill="freeze"/>
-    </text>
+<!-- spacer -->
+<text x="30" y="360" opacity="0">======================================
+  <animate attributeName="opacity" begin="13.31s" dur="0.07s" to="1" fill="freeze"/>
+  <rect width="0" height="0" fill="none">
+    <animate id="flicker" attributeName="width" from="1" to="1"
+             begin="13.31s;flicker.begin+0.15s" dur="0.15s" repeatCount="indefinite"/>
+  </rect>
+  <animate attributeName="opacity" begin="flicker.begin" 
+           values="1;0.4;0.8;0.6;1" dur="0.15s" repeatCount="indefinite"/>
+</text>
 
-    <!-- $ my name is Virgil Jones -->
-    <text x="30" y="240" opacity="0">$ 
-      <animate attributeName="opacity" begin="4.4s;reboot.begin+4.4s" dur="0.1s" to="1" fill="freeze"/>
-    </text>
-
-    <!-- m -->
-    <text x="55" y="240" opacity="0">m
-      <animate attributeName="opacity" begin="4.5s;reboot.begin+4.5s" dur="0.07s" to="1" fill="freeze"/>
-    </text>
-
-    <text x="75" y="240" opacity="0">y
-      <animate attributeName="opacity" begin="4.57s;reboot.begin+4.57s" dur="0.07s" to="1" fill="freeze"/>
-    </text>
-
-    <text x="95" y="240" opacity="0"> 
-      <animate attributeName="opacity" begin="4.64s;reboot.begin+4.64s" dur="0.07s" to="1" fill="freeze"/>
-    </text>
-
-    <text x="115" y="240" opacity="0">n
-      <animate attributeName="opacity" begin="4.71s;reboot.begin+4.71s" dur="0.07s" to="1" fill="freeze"/>
-    </text>
-
-    <text x="135" y="240" opacity="0">a
-      <animate attributeName="opacity" begin="4.78s;reboot.begin+4.78s" dur="0.07s" to="1" fill="freeze"/>
-    </text>
-
-    <text x="155" y="240" opacity="0">m
-      <animate attributeName="opacity" begin="4.85s;reboot.begin+4.85s" dur="0.07s" to="1" fill="freeze"/>
-    </text>
-
-    <text x="175" y="240" opacity="0">e
-      <animate attributeName="opacity" begin="4.92s;reboot.begin+4.92s" dur="0.07s" to="1" fill="freeze"/>
-    </text>
-
-    <text x="195" y="240" opacity="0"> 
-      <animate attributeName="opacity" begin="4.99s;reboot.begin+4.99s" dur="0.07s" to="1" fill="freeze"/>
-    </text>
-
-    <text x="215" y="240" opacity="0">i
-      <animate attributeName="opacity" begin="5.06s;reboot.begin+5.06s" dur="0.07s" to="1" fill="freeze"/>
-    </text>
-
-    <text x="235" y="240" opacity="0">s
-      <animate attributeName="opacity" begin="5.13s;reboot.begin+5.13s" dur="0.07s" to="1" fill="freeze"/>
-    </text>
-
-    <text x="245" y="240" opacity="0"> 
-      <animate attributeName="opacity" begin="5.20s;reboot.begin+5.20s" dur="0.07s" to="1" fill="freeze"/>
-    </text>
-
-    <!-- VIRGIL JONES -->
-    <text x="265" y="240" opacity="0">V
-      <animate attributeName="opacity" begin="5.27s;reboot.begin+5.27s" dur="0.07s" to="1" fill="freeze"/>
-    </text>
-
-    <text x="285" y="240" opacity="0">i
-      <animate attributeName="opacity" begin="5.34s;reboot.begin+5.34s" dur="0.07s" to="1" fill="freeze"/>
-    </text>
-
-    <text x="295" y="240" opacity="0">r
-      <animate attributeName="opacity" begin="5.41s;reboot.begin+5.41s" dur="0.07s" to="1" fill="freeze"/>
-    </text>
-
-    <text x="315" y="240" opacity="0">g
-      <animate attributeName="opacity" begin="5.48s;reboot.begin+5.48s" dur="0.07s" to="1" fill="freeze"/>
-    </text>
-
-    <text x="335" y="240" opacity="0">i
-      <animate attributeName="opacity" begin="5.55s;reboot.begin+5.55s" dur="0.07s" to="1" fill="freeze"/>
-    </text>
-
-    <text x="345" y="240" opacity="0">l
-      <animate attributeName="opacity" begin="5.62s;reboot.begin+5.62s" dur="0.07s" to="1" fill="freeze"/>
-    </text>
-
-    <text x="365" y="240" opacity="0"> 
-      <animate attributeName="opacity" begin="5.69s;reboot.begin+5.69s" dur="0.07s" to="1" fill="freeze"/>
-    </text>
-
-    <text x="385" y="240" opacity="0">J
-      <animate attributeName="opacity" begin="5.76s;reboot.begin+5.76s" dur="0.07s" to="1" fill="freeze"/>
-    </text>
-
-    <text x="405" y="240" opacity="0">o
-      <animate attributeName="opacity" begin="5.83s;reboot.begin+5.83s" dur="0.07s" to="1" fill="freeze"/>
-    </text>
-
-    <text x="425" y="240" opacity="0">n
-      <animate attributeName="opacity" begin="5.90s;reboot.begin+5.90s" dur="0.07s" to="1" fill="freeze"/>
-    </text>
-
-    <text x="445" y="240" opacity="0">e
-      <animate attributeName="opacity" begin="5.97s;reboot.begin+5.97s" dur="0.07s" to="1" fill="freeze"/>
-    </text>
-
-    <text x="465" y="240" opacity="0">s
-      <animate attributeName="opacity" begin="6.04s;reboot.begin+6.04s" dur="0.07s" to="1" fill="freeze"/>
-    </text>
+    
 
     <!-- Cursor -->
-    <rect x="30" y="260" width="14" height="24" fill="#2aff2a" opacity="0">
-      <animate attributeName="opacity" values="0;1;0" dur="1.2s" repeatCount="indefinite" begin="6.3s"/>
+    <rect x="30" y="390" width="14" height="24" fill="#2aff2a" opacity="0">
+      <animate attributeName="opacity" values="0;1;0" dur="1.2s" repeatCount="indefinite" begin="13.31s"/>
     </rect>
   </g>
 

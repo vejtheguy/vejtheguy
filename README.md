@@ -1,7 +1,7 @@
 ## <div align="left">interface Vejtheguy { <br/>&nbsp; &nbsp; &nbsp; &nbsp; welcome: _string_;<br/>&nbsp; &nbsp; &nbsp; &nbsp; to: _number_;<br/>&nbsp; &nbsp; &nbsp; &nbsp; my: _boolean_;<br/>&nbsp; &nbsp; &nbsp; &nbsp; github: _string[ ]_;<br/>};</div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vejtheguy/portfolio/main/imgs/terminal.svg" />
+  <img src="https://raw.githubusercontent.com/vejtheguy/vejtheguy/refs/heads/main/imgs/terminal.svg" />
 </p>
 
 <div align="left">
