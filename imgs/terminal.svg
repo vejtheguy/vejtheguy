@@ -1,6 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450">
+<svg xmlns="http://www.w3.org/2000/svg" width="1012" height="450">
   <defs>
-  
     <!-- Scanline pattern -->
     <pattern id="scan" width="100" height="8" patternUnits="userSpaceOnUse">
       <rect width="100" height="4" fill="rgba(0,255,0,0.143)" />
@@ -8,7 +7,6 @@
   </defs>
 
   <rect width="100%" height="100%" fill="#000200"/>
-
   <rect width="100%" height="100%" fill="url(#scan)"/>
 
   <!-- Glitch rolling bar -->
@@ -266,7 +264,7 @@
 <animate attributeName="opacity" begin="7.54s" dur="0.07s" to="1" fill="freeze"/>
 </text>
 <!-- $ session online -->
-<text x="30" y="240" opacity="0">$
+<text x="30" y="240" opacity="0">&gt;
 <animate attributeName="opacity" begin="8.04s" dur="0.07s" to="1" fill="freeze"/>
 </text>
 <text x="50" y="240" opacity="0">
@@ -316,7 +314,7 @@
 </text>
 
 <!-- user authenticated: Virgil Jones -->
-<text x="30" y="280" opacity="0">$
+<text x="30" y="280" opacity="0">&gt;
 <animate attributeName="opacity" begin="9.16s" dur="0.07s" to="1" fill="freeze"/>
 </text>
 <text x="50" y="280" opacity="0"> 
@@ -420,7 +418,7 @@
 </text>
 
 <!-- access options below -->
-<text x="30" y="320" opacity="0">$
+<text x="30" y="320" opacity="0">&gt;
 <animate attributeName="opacity" begin="11.54s" dur="0.07s" to="1" fill="freeze"/>
 </text>
 <text x="50" y="320" opacity="0"> 
@@ -489,20 +487,18 @@
 
 <!-- spacer -->
 <text x="30" y="360" opacity="0">======================================
-  <animate attributeName="opacity" begin="13.31s" dur="0.07s" to="1" fill="freeze"/>
+  <animate attributeName="opacity" begin="13.11s" dur="0.07s" to="1" fill="freeze"/>
   <rect width="0" height="0" fill="none">
     <animate id="flicker" attributeName="width" from="1" to="1"
-             begin="13.31s;flicker.begin+0.15s" dur="0.15s" repeatCount="indefinite"/>
+             begin="13.11s;flicker.begin+0.15s" dur="0.15s" repeatCount="indefinite"/>
   </rect>
   <animate attributeName="opacity" begin="flicker.begin" 
-           values="1;0.4;0.8;0.6;1" dur="0.15s" repeatCount="indefinite"/>
+           values="1;0.3;0.7;0.4;0.9" dur="0.15s" repeatCount="indefinite"/>
 </text>
-
-    
 
     <!-- Cursor -->
     <rect x="30" y="390" width="14" height="24" fill="#2aff2a" opacity="0">
-      <animate attributeName="opacity" values="0;1;0" dur="1.2s" repeatCount="indefinite" begin="13.31s"/>
+      <animate attributeName="opacity" values="0;1;0" dur="1.2s" repeatCount="indefinite" begin="13.11s"/>
     </rect>
   </g>
 
