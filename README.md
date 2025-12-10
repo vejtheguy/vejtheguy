@@ -28,11 +28,11 @@ Looking for: Internship or part-time opportunities to contribute to real project
 **========== [user.current_tasks.log] ==========**
 
 \>&nbsp; school  
-&nbsp;&nbsp;&nbsp;&nbsp;├ Arizona State University (online) - B.S. Computer Science  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ Arizona State University (online) - B.S. Computer Science  
 &nbsp;&nbsp;&nbsp;&nbsp;└ Coursework: Core CS classes, algorithms, data structures
 
 \>&nbsp; personal_projects  
-&nbsp;&nbsp;&nbsp;&nbsp;├ Building: Personalized homepage  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ Building: Personalized homepage  
 &nbsp;&nbsp;&nbsp;&nbsp;└ Experimenting: Svelte, SolidJS, React,
 JavaScript patterns
 
@@ -45,24 +45,24 @@ JavaScript patterns
 **========== [user.languages_tools.log] ==========**
 
 \>&nbsp; languages  
-&nbsp;&nbsp;&nbsp;&nbsp;├ JavaScript  
-&nbsp;&nbsp;&nbsp;&nbsp;├ TypeScript  
-&nbsp;&nbsp;&nbsp;&nbsp;├ Java  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ JavaScript  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ TypeScript  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ Java  
 &nbsp;&nbsp;&nbsp;&nbsp;└ Node.js  
 \>&nbsp; frontend  
-&nbsp;&nbsp;&nbsp;&nbsp;├ HTML / CSS  
-&nbsp;&nbsp;&nbsp;&nbsp;├ Sass  
-&nbsp;&nbsp;&nbsp;&nbsp;├ React  
-&nbsp;&nbsp;&nbsp;&nbsp;├ SolidJS  
-&nbsp;&nbsp;&nbsp;&nbsp;├ TailwindCSS  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ HTML / CSS  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ Sass  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ React  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ SolidJS  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ TailwindCSS  
 &nbsp;&nbsp;&nbsp;&nbsp;└ Bootstrap  
 \>&nbsp; tools  
-&nbsp;&nbsp;&nbsp;&nbsp;├ Git / GitHub  
-&nbsp;&nbsp;&nbsp;&nbsp;├ Firebase  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ Git / GitHub  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ Firebase  
 &nbsp;&nbsp;&nbsp;&nbsp;└ Tinkercad  
 \>&nbsp; design  
-&nbsp;&nbsp;&nbsp;&nbsp;├ Figma  
-&nbsp;&nbsp;&nbsp;&nbsp;├ Blender  
-&nbsp;&nbsp;&nbsp;&nbsp;├ Canva  
-&nbsp;&nbsp;&nbsp;&nbsp;├ Illustrator  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ Figma  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ Blender  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ Canva  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├ Illustrator  
 &nbsp;&nbsp;&nbsp;&nbsp;└ Photoshop
