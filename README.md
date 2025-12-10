@@ -2,13 +2,22 @@
   <img src="https://raw.githubusercontent.com/vejtheguy/vejtheguy/refs/heads/main/imgs/terminal.svg" alt="Animated terminal interface welcoming users to Virgil’s GitHub profile."/>
 </div>
 
-### >> user.profile.log
+#### ===== [user.profile.log] =====
 
-name = Virgil Jones  
-status = Undergraduate @ Arizona State University  
-major = B.S. Computer Science (IT track)  
-year = Sophomore / Junior Standing  
-focus = Front-End Development, UI Design, Web Engineering
+\> name = Virgil Jones  
+\> status = Undergraduate @ Arizona State University  
+\> major = B.S. Computer Science (IT track)  
+\> year = Sophomore / Junior Standing  
+\> focus = Front-End Development, UI Design, Web Engineering
+
+<pre style="font-size:16px; color:#00FF00; background:none; border:none;">
+===== [user.profile.log] =====
+> name   = Virgil Jones  
+> status = Undergraduate @ Arizona State University  
+> major  = B.S. Computer Science (IT track)  
+> year   = Sophomore / Junior Standing  
+> focus  = Front-End Development, UI Design, Web Engineering
+</pre>
 
 ### >> user.about.log
 
@@ -18,21 +27,19 @@ I’m actively expanding my technical foundation while working toward a B.S. in 
 
 ### >> current_tasks
 
-```text
-> school
+\> school
 ├ Arizona State University (online) – B.S. Computer Science
 └ Coursework: Core CS classes, algorithms, data structures, web development
 
-> personal_projects
+\> personal_projects
 ├ Building: Personal homepage
 └ Experimenting: Svelte, SolidJS, JavaScript patterns
 
-> professional_learning
+\> professional_learning
 └ Udemy Fullstack Web Development course
 
-> fun_fact
+\> fun_fact
 └ Most hobbies involve fire: glassblowing, metalwork, etc.
-```
 
 ### >> contact_links
 
