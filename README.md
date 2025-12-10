@@ -6,18 +6,31 @@
 ========== [user.profile.log] ==========
 
 >  name   = Virgil Jones  
->  status = Undergraduate @ Arizona State University (online)  
+>  status = Undergraduate @ Arizona State
+            University (online)  
 >  major  = Pursuing B.S. Computer Science  
 >  year   = Sophomore / Junior  
->  focus  = Full-Stack Web Development, UI Design, Computer Science Studies
+>  focus  = Full-Stack Web Development, UI
+            Design, Computer Science Studies
 
 ========== [user.about.log] ==========
 
-I'm an Information Technology student transitioning into Computer Science at Arizona State University. I have hands-on experience building modern web interfaces using HTML, CSS, JavaScript, TypeScript, React, and SolidJS. I enjoy creating clean, efficient UI components and bringing ideas to life through interactive experiences.
+I'm an Information Technology student
+transitioning into Computer Science at Arizona
+State University. I have hands-on experience
+building modern web interfaces using HTML, CSS,
+JavaScript, TypeScript, React, and SolidJS. I
+enjoy creating clean, efficient UI components and
+bringing ideas to life through interactive
+experiences.
 
-Currently: Expanding my skills in full-stack development, exploring Svelte & SolidJS, and building personal projects.
+Currently: Expanding my skills in full-stack
+development, exploring Svelte & SolidJS, and
+building personal projects.
 
-Looking for: Internship or part-time opportunities to contribute to real projects and learn from experienced engineers.
+Looking for: Internship or part-time
+opportunities to contribute to real projects and
+learn from experienced engineers.
 
 ========== [user.contact.log] ==========
 
@@ -27,18 +40,22 @@ Looking for: Internship or part-time opportunities to contribute to real project
 ========== [user.current_tasks.log] ==========
 
 >  school
-    ├ Arizona State University (online) - B.S. Computer Science
-    └ Coursework: Core CS classes, algorithms, data structures
+    ├ Arizona State University (online) - B.S.
+      Computer Science
+    └ Coursework: Core CS classes, algorithms,
+      data structures
 
 >  personal_projects
     ├ Building: Personalized homepage
-    └ Experimenting: Svelte, SolidJS, React, JavaScript patterns
+    └ Experimenting: Svelte, SolidJS, React,
+      JavaScript patterns
 
 >  professional_learning
     └ Udemy Fullstack Web Development course
 
 >  fun_fact
-    └ Enjoy hobbies involving fire: glassblowing, metalwork, etc.
+    └ Enjoy hobbies involving fire: glassblowing,
+      metalwork, etc.
 
 ========== [user.languages_tools.log] ==========
 
