@@ -2,21 +2,13 @@
   <img src="https://raw.githubusercontent.com/vejtheguy/vejtheguy/refs/heads/main/imgs/terminal.svg" alt="Animated terminal interface welcoming users to Virgil’s GitHub profile."/>
 </div>
 
-#### ===== [user.profile.log] =====
-
-\> name = Virgil Jones  
-\> status = Undergraduate @ Arizona State University  
-\> major = B.S. Computer Science (IT track)  
-\> year = Sophomore / Junior Standing  
-\> focus = Front-End Development, UI Design, Web Engineering
-
-<pre style="font-size:20px; color:#00FF00; background:none; border:none;">
-<span style="color:#00FF00; font-size:24px;">===== [user.profile.log] =====</span>
-> name   = Virgil Jones  
-> status = Undergraduate @ Arizona State University  
-> major  = B.S. Computer Science (IT track)  
-> year   = Sophomore / Junior Standing  
-> focus  = Front-End Development, UI Design, Web Engineering
+<pre style="background: transparent; border: 0;">
+========== [user.profile.log] ==========
+>  name   = Virgil Jones  
+>  status = Undergraduate @ Arizona State University  
+>  major  = B.S. Computer Science (IT track)  
+>  year   = Sophomore / Junior Standing  
+>  focus  = Front-End Development, UI Design, Web Engineering
 </pre>
 
 ### >> user.about.log
