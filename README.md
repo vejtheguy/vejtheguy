@@ -14,11 +14,11 @@ Design, Computer Science Studies
 
 ### **==========&nbsp; [user.about.log] ====================**
 
-\> I'm an Information Technology student transitioning into Computer Science at Arizona State University. I have hands-on experience building modern web interfaces using HTML, CSS, JavaScript, TypeScript, React, and SolidJS. I enjoy creating clean, efficient UI components and bringing ideas to life through interactive experiences.
+\>&nbsp; I'm an Information Technology student transitioning into Computer Science at Arizona State University. I have hands-on experience building modern web interfaces using HTML, CSS, JavaScript, TypeScript, React, and SolidJS. I enjoy creating clean, efficient UI components and bringing ideas to life through interactive experiences.
 
-\> **Currently:** Expanding my skills in full-stack development, exploring Svelte & SolidJS, and building personal projects.
+\>&nbsp; **Currently:** Expanding my skills in full-stack development, exploring Svelte & SolidJS, and building personal projects.
 
-\> **Looking for:** Internship or part-time opportunities to contribute to real projects and learn from experienced engineers.
+\>&nbsp; **Looking for:** Internship or part-time opportunities to contribute to real projects and learn from experienced engineers.
 
 ### **==========&nbsp; [user.contact.log]&nbsp; ==================**
 
