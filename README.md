@@ -50,18 +50,21 @@ JavaScript patterns
 &nbsp;&nbsp;&nbsp;&nbsp;├ JavaScript  
 &nbsp;&nbsp;&nbsp;&nbsp;├ TypeScript  
 &nbsp;&nbsp;&nbsp;&nbsp;├ Java  
-&nbsp;&nbsp;&nbsp;&nbsp;└ Node.js  
+&nbsp;&nbsp;&nbsp;&nbsp;└ Node.js
+
 \>&nbsp; **frontend**  
 &nbsp;&nbsp;&nbsp;&nbsp;├ HTML / CSS  
 &nbsp;&nbsp;&nbsp;&nbsp;├ Sass  
 &nbsp;&nbsp;&nbsp;&nbsp;├ React  
 &nbsp;&nbsp;&nbsp;&nbsp;├ SolidJS  
 &nbsp;&nbsp;&nbsp;&nbsp;├ TailwindCSS  
-&nbsp;&nbsp;&nbsp;&nbsp;└ Bootstrap  
+&nbsp;&nbsp;&nbsp;&nbsp;└ Bootstrap
+
 \>&nbsp; **tools**  
 &nbsp;&nbsp;&nbsp;&nbsp;├ Git / GitHub  
 &nbsp;&nbsp;&nbsp;&nbsp;├ Firebase  
-&nbsp;&nbsp;&nbsp;&nbsp;└ Tinkercad  
+&nbsp;&nbsp;&nbsp;&nbsp;└ Tinkercad
+
 \>&nbsp; **design**  
 &nbsp;&nbsp;&nbsp;&nbsp;├ Figma  
 &nbsp;&nbsp;&nbsp;&nbsp;├ Blender  
