@@ -10,8 +10,8 @@
 \> year = Sophomore / Junior Standing  
 \> focus = Front-End Development, UI Design, Web Engineering
 
-<pre style="font-size:16px; color:#00FF00; background:none; border:none;">
-===== [user.profile.log] =====
+<pre style="font-size:20px; color:#00FF00; background:none; border:none;">
+<span style="color:#00FF00; font-size:24px;">===== [user.profile.log] =====</span>
 > name   = Virgil Jones  
 > status = Undergraduate @ Arizona State University  
 > major  = B.S. Computer Science (IT track)  
