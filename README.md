@@ -12,7 +12,7 @@ University (online)
 \>&nbsp; **focus** &nbsp;=&nbsp; Full-Stack Web Development, UI
 Design, Computer Science Studies
 
-### **==========&nbsp; [user.about.log] ====================**
+### **==========&nbsp; [user.about.log]&nbsp; ===================**
 
 \>&nbsp; I'm an Information Technology student transitioning into Computer Science at Arizona State University. I have hands-on experience building modern web interfaces using HTML, CSS, JavaScript, TypeScript, React, and SolidJS. I enjoy creating clean, efficient UI components and bringing ideas to life through interactive experiences.
 
@@ -27,7 +27,7 @@ Design, Computer Science Studies
 \>&nbsp; <a href="https://linkedin.com/in/virgil-jones-630059274">access linkedin</a>  
 \>&nbsp; <a href="https://vejtheguy.github.io/portfolio/index.html">access portfolio</a>
 
-### **==========&nbsp; [user.current_tasks.log] ==============**
+### **==========&nbsp; [user.current_tasks.log]&nbsp; =============**
 
 \>&nbsp; **school**  
 &nbsp;&nbsp;&nbsp;&nbsp;├ Arizona State University (online) - B.S. Computer Science  
@@ -44,7 +44,7 @@ JavaScript patterns
 \>&nbsp; **fun_fact**  
 &nbsp;&nbsp;&nbsp;&nbsp;└ Enjoy hobbies involving fire: glassblowing, metalwork, etc.
 
-### **==========&nbsp; [user.languages_tools.log] ============**
+### **==========&nbsp; [user.languages_tools.log]&nbsp; ===========**
 
 \>&nbsp; **languages**  
 &nbsp;&nbsp;&nbsp;&nbsp;├ JavaScript  
