@@ -22,8 +22,10 @@ Looking for: Internship or part-time opportunities to contribute to real project
 
 **========== [user.contact.log] ==========**
 
-\>&nbsp; <a href="https://codepen.io/vejtheguy">access codepen</a><br>
-\>&nbsp; <a href="https://linkedin.com/in/virgil-jones-630059274">access linkedin</a>
+\>&nbsp; <a href="https://codepen.io/vejtheguy">access codepen</a>  
+\>&nbsp; <a href="https://app.joinhandshake.com/profiles/vejtheguy">access handshake</a>  
+\>&nbsp; <a href="https://linkedin.com/in/virgil-jones-630059274">access linkedin</a>  
+\>&nbsp; <a href="https://vejtheguy.github.io/portfolio/index.html">access portfolio</a>
 
 **========== [user.current_tasks.log] ==========**
 
