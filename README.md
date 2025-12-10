@@ -2,84 +2,67 @@
   <img src="https://raw.githubusercontent.com/vejtheguy/vejtheguy/refs/heads/main/imgs/terminal.svg" alt="Animated terminal interface welcoming users to Virgil’s GitHub profile."/>
 </div>
 
-<pre style="background: transparent; border: 0;">
-========== [user.profile.log] ==========
+**========== [user.profile.log] ==========**
 
->  name   = Virgil Jones  
->  status = Undergraduate @ Arizona State
-            University (online)  
->  major  = Pursuing B.S. Computer Science  
->  year   = Sophomore / Junior  
->  focus  = Full-Stack Web Development, UI
-            Design, Computer Science Studies
+\>&nbsp; name &nbsp;=&nbsp; Virgil Jones  
+\>&nbsp; status =&nbsp; Undergraduate @ Arizona State
+University (online)  
+\>&nbsp; major &nbsp;=&nbsp; Pursuing B.S. Computer Science  
+\>&nbsp; year &nbsp;&nbsp;&nbsp;=&nbsp; Sophomore / Junior  
+\>&nbsp; focus &nbsp;=&nbsp; Full-Stack Web Development, UI
+Design, Computer Science Studies
 
-========== [user.about.log] ==========
+**========== [user.about.log] ==========**
 
-I'm an Information Technology student
-transitioning into Computer Science at Arizona
-State University. I have hands-on experience
-building modern web interfaces using HTML, CSS,
-JavaScript, TypeScript, React, and SolidJS. I
-enjoy creating clean, efficient UI components and
-bringing ideas to life through interactive
-experiences.
+I'm an Information Technology student transitioning into Computer Science at Arizona State University. I have hands-on experience building modern web interfaces using HTML, CSS, JavaScript, TypeScript, React, and SolidJS. I enjoy creating clean, efficient UI components and bringing ideas to life through interactive experiences.
 
-Currently: Expanding my skills in full-stack
-development, exploring Svelte & SolidJS, and
-building personal projects.
+Currently: Expanding my skills in full-stack development, exploring Svelte & SolidJS, and building personal projects.
 
-Looking for: Internship or part-time
-opportunities to contribute to real projects and
-learn from experienced engineers.
+Looking for: Internship or part-time opportunities to contribute to real projects and learn from experienced engineers.
 
-========== [user.contact.log] ==========
+**========== [user.contact.log] ==========**
 
->  <a href="https://codepen.io/vejtheguy">access codepen</a>
->  <a href="https://linkedin.com/in/virgil-jones-630059274">access linkedin</a>
+\>&nbsp; <a href="https://codepen.io/vejtheguy">access codepen</a><br>
+\>&nbsp; <a href="https://linkedin.com/in/virgil-jones-630059274">access linkedin</a>
 
-========== [user.current_tasks.log] ==========
+**========== [user.current_tasks.log] ==========**
 
->  school
-    ├ Arizona State University (online) - B.S.
-      Computer Science
-    └ Coursework: Core CS classes, algorithms,
-      data structures
+\>&nbsp; school  
+&nbsp;&nbsp;&nbsp;&nbsp;├ Arizona State University (online) - B.S. Computer Science  
+&nbsp;&nbsp;&nbsp;&nbsp;└ Coursework: Core CS classes, algorithms, data structures
 
->  personal_projects
-    ├ Building: Personalized homepage
-    └ Experimenting: Svelte, SolidJS, React,
-      JavaScript patterns
+\>&nbsp; personal_projects  
+&nbsp;&nbsp;&nbsp;&nbsp;├ Building: Personalized homepage  
+&nbsp;&nbsp;&nbsp;&nbsp;└ Experimenting: Svelte, SolidJS, React,
+JavaScript patterns
 
->  professional_learning
-    └ Udemy Fullstack Web Development course
+\>&nbsp; professional_learning  
+&nbsp;&nbsp;&nbsp;&nbsp;└ Udemy Fullstack Web Development course
 
->  fun_fact
-    └ Enjoy hobbies involving fire: glassblowing,
-      metalwork, etc.
+\>&nbsp; fun_fact  
+&nbsp;&nbsp;&nbsp;&nbsp;└ Enjoy hobbies involving fire: glassblowing, metalwork, etc.
 
-========== [user.languages_tools.log] ==========
+**========== [user.languages_tools.log] ==========**
 
-> languages  
-    ├ JavaScript  
-    ├ TypeScript  
-    ├ Java  
-    └ Node.js  
-> frontend  
-    ├ HTML / CSS  
-    ├ Sass  
-    ├ React  
-    ├ SolidJS  
-    ├ TailwindCSS  
-    └ Bootstrap  
-> tools  
-    ├ Git / GitHub  
-    ├ Firebase  
-    └ Tinkercad  
-> design  
-    ├ Figma  
-    ├ Blender  
-    ├ Canva  
-    ├ Illustrator  
-    └ Photoshop
-
-</pre>
+\>&nbsp; languages  
+&nbsp;&nbsp;&nbsp;&nbsp;├ JavaScript  
+&nbsp;&nbsp;&nbsp;&nbsp;├ TypeScript  
+&nbsp;&nbsp;&nbsp;&nbsp;├ Java  
+&nbsp;&nbsp;&nbsp;&nbsp;└ Node.js  
+\>&nbsp; frontend  
+&nbsp;&nbsp;&nbsp;&nbsp;├ HTML / CSS  
+&nbsp;&nbsp;&nbsp;&nbsp;├ Sass  
+&nbsp;&nbsp;&nbsp;&nbsp;├ React  
+&nbsp;&nbsp;&nbsp;&nbsp;├ SolidJS  
+&nbsp;&nbsp;&nbsp;&nbsp;├ TailwindCSS  
+&nbsp;&nbsp;&nbsp;&nbsp;└ Bootstrap  
+\>&nbsp; tools  
+&nbsp;&nbsp;&nbsp;&nbsp;├ Git / GitHub  
+&nbsp;&nbsp;&nbsp;&nbsp;├ Firebase  
+&nbsp;&nbsp;&nbsp;&nbsp;└ Tinkercad  
+\>&nbsp; design  
+&nbsp;&nbsp;&nbsp;&nbsp;├ Figma  
+&nbsp;&nbsp;&nbsp;&nbsp;├ Blender  
+&nbsp;&nbsp;&nbsp;&nbsp;├ Canva  
+&nbsp;&nbsp;&nbsp;&nbsp;├ Illustrator  
+&nbsp;&nbsp;&nbsp;&nbsp;└ Photoshop
