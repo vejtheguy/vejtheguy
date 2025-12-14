@@ -7,14 +7,14 @@
 \>&nbsp; **name** &nbsp;=&nbsp; Virgil Jones  
 \>&nbsp; **status** =&nbsp; Undergraduate @ Arizona State
 University (online)  
-\>&nbsp; **major** &nbsp;=&nbsp; Pursuing B.S. Computer Science  
+\>&nbsp; **major** &nbsp;=&nbsp; B.S. Computer Science  
 \>&nbsp; **year** &nbsp;&nbsp;&nbsp;=&nbsp; Sophomore / Junior  
 \>&nbsp; **focus** &nbsp;=&nbsp; Full-Stack Web Development, UI
 Design, Computer Science Studies
 
 ### **==========&nbsp; [user.about.log]&nbsp; ===================**
 
-\>&nbsp; I'm an Information Technology student transitioning into Computer Science at Arizona State University. I have hands-on experience building modern web interfaces using HTML, CSS, JavaScript, TypeScript, React, and SolidJS. I enjoy creating clean, efficient UI components and bringing ideas to life through interactive experiences.
+\>&nbsp; I’m a Computer Science student at Arizona State University with hands-on experience building modern web interfaces using HTML, CSS, JavaScript, TypeScript, React, and SolidJS. I enjoy creating clean, efficient UI components and bringing ideas to life through interactive experiences.
 
 \>&nbsp; **Currently:** Expanding my skills in full-stack development, exploring Svelte & SolidJS, and building personal projects.
 
@@ -49,16 +49,20 @@ JavaScript patterns
 \>&nbsp; **languages**  
 &nbsp;&nbsp;&nbsp;&nbsp;├ JavaScript  
 &nbsp;&nbsp;&nbsp;&nbsp;├ TypeScript  
-&nbsp;&nbsp;&nbsp;&nbsp;├ Java  
-&nbsp;&nbsp;&nbsp;&nbsp;└ Node.js
+&nbsp;&nbsp;&nbsp;&nbsp;└ Java
 
 \>&nbsp; **frontend**  
 &nbsp;&nbsp;&nbsp;&nbsp;├ HTML / CSS  
-&nbsp;&nbsp;&nbsp;&nbsp;├ Sass  
+&nbsp;&nbsp;&nbsp;&nbsp;├ Sass (SCSS)  
 &nbsp;&nbsp;&nbsp;&nbsp;├ React  
 &nbsp;&nbsp;&nbsp;&nbsp;├ SolidJS  
 &nbsp;&nbsp;&nbsp;&nbsp;├ TailwindCSS  
 &nbsp;&nbsp;&nbsp;&nbsp;└ Bootstrap
+
+\>&nbsp; **backend**
+&nbsp;&nbsp;&nbsp;&nbsp;├ Node.js
+&nbsp;&nbsp;&nbsp;&nbsp;├ Express.js
+&nbsp;&nbsp;&nbsp;&nbsp;└ EJS
 
 \>&nbsp; **tools**  
 &nbsp;&nbsp;&nbsp;&nbsp;├ Git / GitHub  
