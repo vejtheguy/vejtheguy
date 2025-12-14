@@ -59,9 +59,9 @@ JavaScript patterns
 &nbsp;&nbsp;&nbsp;&nbsp;├ TailwindCSS  
 &nbsp;&nbsp;&nbsp;&nbsp;└ Bootstrap
 
-\>&nbsp; **backend**
-&nbsp;&nbsp;&nbsp;&nbsp;├ Node.js
-&nbsp;&nbsp;&nbsp;&nbsp;├ Express.js
+\>&nbsp; **backend**  
+&nbsp;&nbsp;&nbsp;&nbsp;├ Node.js  
+&nbsp;&nbsp;&nbsp;&nbsp;├ Express.js  
 &nbsp;&nbsp;&nbsp;&nbsp;└ EJS
 
 \>&nbsp; **tools**  
