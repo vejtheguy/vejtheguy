@@ -61,7 +61,9 @@ JavaScript patterns
 
 \>&nbsp; **backend**  
 &nbsp;&nbsp;&nbsp;&nbsp;├ Node.js  
-&nbsp;&nbsp;&nbsp;&nbsp;├ Express.js  
+&nbsp;&nbsp;&nbsp;&nbsp;└ Express.js
+
+\>&nbsp; **templating / views**  
 &nbsp;&nbsp;&nbsp;&nbsp;└ EJS
 
 \>&nbsp; **tools**  
